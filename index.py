@@ -1,5 +1,5 @@
 #2243465 - Juan Esteban Gomez Ayala
-#2242038 - Juan David Ochoa
+#2242038 - Juan David Ortiz Ochoa
 
 # Clase Nodo
 class Nodo:
